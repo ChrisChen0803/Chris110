@@ -6,8 +6,8 @@
 `git status`  
 This page was functioned by [GitHub Pages](https://pages.github.com/)  
 ![](download.png)  
-- [Favorite Programming Language](#pl)
-# pl
+- [Favorite Programming Language](#favorite_programming_language)
+# Favorite Programming Language
 1. C++
 2. Java
 3. Python
