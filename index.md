@@ -13,7 +13,7 @@ This page was functioned by [GitHub Pages](https://pages.github.com/)
 3. Python  
 * Coding  
 * Algorithm  
-* Efficiency  
+* Other   
 - [x] Build the skelenton
 - [ ] Fill in more information
 [Career Experience](Page2.md)  
