@@ -1,9 +1,9 @@
 # Chris Chen's User Page
 **This is Chris's Page**
-> Waiting for change
-`git status`
-This page was functioned by [GitHub Pages](https://pages.github.com/)
-[IMAGE](download.png)
+> Waiting for change  
+`git status`  
+This page was functioned by [GitHub Pages](https://pages.github.com/)  
+[IMAGE](download.png)  
 [Programming Language](#pl)
 #pl
 1. C++
