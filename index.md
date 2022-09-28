@@ -6,7 +6,7 @@
 `git status`  
 This page was functioned by [GitHub Pages](https://pages.github.com/)  
 ![](download.png)  
-- [Programming Language](#pl)
+- [Favorite Programming Language](#pl)
 # pl
 1. C++
 2. Java
@@ -15,5 +15,5 @@ This page was functioned by [GitHub Pages](https://pages.github.com/)
 - Chen
 - [x] Build the skelenton
 - [ ] Fill in more information
-[Relative link](Page2.md)  
+[Career Experience](Page2.md)  
 
