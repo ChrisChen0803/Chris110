@@ -1,10 +1,10 @@
 # Chris Chen's User Page
 **This is Chris's Page**
 >
-> Waiting for change(First Version)
-> sixth college
-> thrid year
-> cs major
+> Waiting for change(First Version)  
+> sixth college  
+> thrid year  
+> cs major  
 > 
 `git status`  
 This page was functioned by [GitHub Pages](https://pages.github.com/)  
