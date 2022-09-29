@@ -1,7 +1,10 @@
 # Chris Chen's User Page
 **This is Chris's Page**
 >
-> Waiting for change
+> Waiting for change(First Version)
+> sixth college
+> thrid year
+> cs major
 > 
 `git status`  
 This page was functioned by [GitHub Pages](https://pages.github.com/)  
@@ -10,10 +13,11 @@ This page was functioned by [GitHub Pages](https://pages.github.com/)
 # favorite_programming_language
 1. C++
 2. Java
-3. Python  
+3. Python
+My personal idea of what SE should learn:
 * Coding  
 * Algorithm  
-* Other   
+* Communication   
 - [x] Build the skelenton
 - [ ] Fill in more information
 [Career Experience](Page2.md)  
